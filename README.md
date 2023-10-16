@@ -36,6 +36,6 @@ The program includes error handling to ensure that user inputs are validated and
 Future enhancements could include building a graphical user interface (GUI) application that allows users to interact with the program in a more intuitive way. This GUI application could also visually represent the barcodes.
 
 ## Credits
-- Program inspired by problem P6.6 in "Big Java" by Cay S. Horstmann.
+- Program inspired by problem P8.7 in "Big Java" by Cay S. Horstmann.
 
 - If you encounter any issues or have suggestions for improvements, please feel free to open an issue on the GitHub repository.
